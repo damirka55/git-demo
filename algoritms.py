@@ -1,3 +1,5 @@
+# Algotitms from book.
+
 # Binary search.
 def binary_search(work_list, item):
     low = 0
